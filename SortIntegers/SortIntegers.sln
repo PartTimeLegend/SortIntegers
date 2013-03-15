@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortIntegers", "SortIntegers.csproj", "{B44A6F18-38FF-41E8-910B-C77F16C80ABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B44A6F18-38FF-41E8-910B-C77F16C80ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44A6F18-38FF-41E8-910B-C77F16C80ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44A6F18-38FF-41E8-910B-C77F16C80ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44A6F18-38FF-41E8-910B-C77F16C80ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
