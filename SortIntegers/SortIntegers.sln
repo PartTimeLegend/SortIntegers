@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortIntegers", "SortIntegers.csproj", "{B44A6F18-38FF-41E8-910B-C77F16C80ABF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicLayer", "LogicLayer\LogicLayer.csproj", "{AFC7E62E-176A-443D-A96C-BF526E20F739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{1162EFC7-BB4A-46CE-99B0-3A1CF23662CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{B44A6F18-38FF-41E8-910B-C77F16C80ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B44A6F18-38FF-41E8-910B-C77F16C80ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B44A6F18-38FF-41E8-910B-C77F16C80ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC7E62E-176A-443D-A96C-BF526E20F739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC7E62E-176A-443D-A96C-BF526E20F739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC7E62E-176A-443D-A96C-BF526E20F739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC7E62E-176A-443D-A96C-BF526E20F739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1162EFC7-BB4A-46CE-99B0-3A1CF23662CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1162EFC7-BB4A-46CE-99B0-3A1CF23662CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1162EFC7-BB4A-46CE-99B0-3A1CF23662CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1162EFC7-BB4A-46CE-99B0-3A1CF23662CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

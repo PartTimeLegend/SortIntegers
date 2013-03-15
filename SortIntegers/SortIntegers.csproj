@@ -70,6 +70,7 @@
     </Compile>
     <Compile Include="MasterPages\Main.Master.cs">
       <DependentUpon>Main.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="MasterPages\Main.Master.designer.cs">
       <DependentUpon>Main.Master</DependentUpon>
@@ -78,6 +79,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="MasterPages\Main.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="LogicLayer\LogicLayer.csproj">
+      <Project>{AFC7E62E-176A-443D-A96C-BF526E20F739}</Project>
+      <Name>LogicLayer</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
