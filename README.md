@@ -15,3 +15,5 @@ SortIntegers
 ============
 
 Allow the user to enter numbers, of any integer value and in random order. Sort these numbers in either ascending or descending order – the order should be chosen by the user.
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=parttimelegend&url=https://github.com/PartTimeLegend/SortIntegers&title=SortIntegers&language=&tags=github&category=software)
