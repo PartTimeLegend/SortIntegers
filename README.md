@@ -16,4 +16,5 @@ SortIntegers
 
 Allow the user to enter numbers, of any integer value and in random order. Sort these numbers in either ascending or descending order – the order should be chosen by the user.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/71516146ae024180b44bac1acd2e0d1a)](https://www.codacy.com/app/PartTimeLegend/SortIntegers?utm_source=github.com&utm_medium=referral&utm_content=PartTimeLegend/SortIntegers&utm_campaign=badger)
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=parttimelegend&url=https://github.com/PartTimeLegend/SortIntegers&title=SortIntegers&language=&tags=github&category=software)
